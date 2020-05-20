@@ -36,6 +36,6 @@ var options = {
 ```
 Request in Postman
 
-![GitHub Logo](/images/request postman.png)
-![GitHub Logo](/images/request postman2.png)
+![github-small](https://raw.githubusercontent.com/viniciusfragelli/nodejs-two-way-ssl/master/images/request%20postman.jpg)
+![github-small](https://raw.githubusercontent.com/viniciusfragelli/nodejs-two-way-ssl/master/images/request%20postman2.jpg)
 
