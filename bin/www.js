@@ -22,7 +22,6 @@ var server = https.createServer({
   key: fs.readFileSync('./server.key'),
   cert: fs.readFileSync('./server.crt'),
   ca: [ fs.readFileSync('./ca.crt') ],
-  passphrase: 'testecert',
   requestCert: true,
   rejectUnauthorized:true,
   agent: false
